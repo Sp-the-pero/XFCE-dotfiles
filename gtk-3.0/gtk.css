@@ -1,0 +1,12 @@
+#clock-button, 
+#xfce4-clockwidget,
+.xfce4-panel clock {
+    font-family: "Fredoka", sans-serif !important;
+}
+/* Target the XFCE Timer Plugin */
+#xfce4-timer-plugin,
+.xfce4-timer-plugin,
+#timer-plugin {
+    font-family: "Fredoka", sans-serif !important;
+    font-weight: 1600 !important;
+}

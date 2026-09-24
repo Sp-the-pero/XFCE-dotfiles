@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Control Panel
+Comment=
+Exec=/home/sp2/Downloads/linux-control-center/control-center
+Icon=adjustlevels
+Path=/home/sp2/Downloads/linux-control-center
+Terminal=false
+StartupNotify=false
